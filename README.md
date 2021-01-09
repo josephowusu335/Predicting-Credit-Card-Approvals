@@ -9,9 +9,9 @@ levels, or too many inquiries on an individual's credit report, for
 example. Manually analyzing these applications is mundane, error-prone, 
 and time-consuming (and time is money!). Luckily, this task can be 
 automated with the power of machine learning and pretty much every 
-commercial bank does so nowadays. In this project, you will build an 
-automatic credit card approval predictor using machine learning 
-techniques, just like the real banks do.
+commercial bank does so nowadays. In this project, I use Scikit-learn with other machine learning 
+techniques, to build an 
+automatic credit card approval predictor just like the real banks do.
 
 The dataset used in this project is from the UCI Machine Learning 
 Repository.
